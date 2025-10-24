@@ -3,9 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Security+Enthusiast;Always+learning%2C+always+building;Code+by+day%2C+hack+by+night" alt="Typing SVG" />
 </div>
 
-I'm a passionate developer diving deep into the worlds of **web development** and **cybersecurity**. Currently on a journey to master the art of building secure, scalable applications while exploring the fascinating realm of ethical hacking. Your friendly neighbourhood tikket! 😄
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
