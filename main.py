@@ -65,7 +65,7 @@ def main():
 
     info_lines = [
         f"\x1b[97;1mtikket1\x1b[0m\x1b[37m@\x1b[0m\x1b[97;1mgithub\x1b[0m",
-        "\x1b[37m─────────────────\x1b[0m",
+        "\x1b[37m-----------------\x1b[0m",
         f"\x1b[96mRank:\x1b[0m      \x1b[93m{git_stats.user_rank.level}\x1b[0m",
         f"\x1b[96mStars:\x1b[0m     \x1b[93m{git_stats.total_stargazers}\x1b[0m",
         f"\x1b[96mCommits:\x1b[0m   \x1b[93m{git_stats.total_commits_last_year}\x1b[0m",
@@ -87,7 +87,7 @@ def main():
     # Color blocks
     colors = ""
     for c in [31, 32, 33, 34, 35, 36, 37, 90]:
-        colors += f"\x1b[{c}m\u2588\u2588\x1b[0m"
+        colors += f"\x1b[{c}m##\x1b[0m"
     t.gen_text(f"               {colors}", row, count=3)
 
     row += 2
