@@ -42,7 +42,8 @@ def main():
     git_stats = gifos.utils.fetch_github_stats("tikket1")
     top_langs = [lang[0] for lang in git_stats.languages_sorted]
 
-    t.gen_prompt(1, prompt="tikket1@kali")
+    prompt_str = "\x1b[92mtikket1\x1b[0m@\x1b[96mkali\x1b[0m:~$ "
+    t.gen_text(prompt_str, 1)
     t.toggle_show_cursor(True)
     t.gen_typing_text(
         "\x1b[92mfetch.sh\x1b[0m \x1b[93m-u tikket1\x1b[0m", 1, contin=True
@@ -90,14 +91,14 @@ def main():
     t.gen_text(f"               {colors}", row, count=3)
 
     row += 2
-    t.gen_prompt(row, prompt="tikket1@kali")
+    t.gen_text(prompt_str, row)
     t.toggle_show_cursor(True)
     t.gen_typing_text(
         "\x1b[92m# offensive security tooling\x1b[0m", row, contin=True
     )
 
     row += 1
-    t.gen_prompt(row, prompt="tikket1@kali")
+    t.gen_text(prompt_str, row)
     t.gen_typing_text(
         "\x1b[92m# 1264 commits | 409K+ lines | 44 repos\x1b[0m",
         row,
