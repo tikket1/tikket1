@@ -96,14 +96,6 @@ def main():
     t.gen_typing_text(
         "\x1b[92m# offensive security tooling\x1b[0m", row, contin=True
     )
-
-    row += 1
-    t.gen_text(prompt_str, row)
-    t.gen_typing_text(
-        "\x1b[92m# 1264 commits | 409K+ lines | 44 repos\x1b[0m",
-        row,
-        contin=True,
-    )
     t.gen_text("", row, count=100, contin=True)
 
     t.gen_gif()

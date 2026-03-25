@@ -21,7 +21,7 @@ primary author of **Huntr** — Go-based vuln scanner. session resumption, check
 **[DuelSec](https://github.com/DuelSec)** — 1v1 adversarial purple team training. Go + Svelte + Terraform.
 
 ```
-1,264 commits · 409K+ lines · 44 repos · 12 languages · 13 months
+2,300+ contributions · 409K+ lines · 44 repos · 12 languages · 14 months
 ```
 
 <br>
