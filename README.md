@@ -14,11 +14,13 @@
 
 <br>
 
-building **[HackTool](https://hacktool.io)** — desktop pentesting app. 51 scanning modules, AI agent orchestration, DRM, the works. sole architect.
+i build offensive security tools. most of my work is closed source.
 
-primary author of **Huntr** — Go-based vuln scanner. session resumption, checkpoint system, TUI dashboard. 122 of 164 commits.
+**[ScopeVault](https://github.com/tikket1/ScopeVault)** — local-first bug bounty scope manager. syncs HackerOne + Intigriti into SQLite. search, classify, export.
 
-**[DuelSec](https://github.com/DuelSec)** — 1v1 adversarial purple team training. Go + Svelte + Terraform.
+**[KaliForgeII](https://github.com/tikket1/KaliForgeII)** — kali bootstrapper for pentesters setting up fresh machines.
+
+**[HackTool](https://hacktool.io)** — desktop pentesting platform. 51 scanning modules, AI agents, DRM. sole architect. (closed source)
 
 ```
 2,300+ contributions · 409K+ lines · 44 repos · 12 languages · 14 months
