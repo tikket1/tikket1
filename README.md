@@ -76,7 +76,7 @@ i build offensive security tools. most of my work is closed source.
 **[HackTool](https://hacktool.io)** — desktop pentesting platform. 51 scanning modules, AI agents, DRM. sole architect. (closed source)
 
 ```
-2,300+ contributions · 409K+ lines · 44 repos · 12 languages · 14 months
+hello friends :) o7 o7
 ```
 
 <br>
