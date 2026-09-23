@@ -77,8 +77,8 @@ i build offensive security tools. most of my work is closed source.
 
 ### security research
 
-25 published CVEs across 18 open source projects, reported through coordinated disclosure.
-2 critical, 16 high, 5 medium, 2 low.
+26 published CVEs across 19 open source projects, reported through coordinated disclosure.
+2 critical, 17 high, 5 medium, 2 low.
 
 <details>
 <summary>full list</summary>
@@ -106,6 +106,7 @@ i build offensive security tools. most of my work is closed source.
 | [CVE-2026-57209](https://www.cve.org/CVERecord?id=CVE-2026-57209) | [Heimdall](https://github.com/dadrus/heimdall) | high |
 | [CVE-2026-59765](https://www.cve.org/CVERecord?id=CVE-2026-59765) | [Gitea](https://github.com/go-gitea/gitea) | high |
 | [CVE-2026-61576](https://www.cve.org/CVERecord?id=CVE-2026-61576) | [Lightdash](https://github.com/lightdash/lightdash) | high |
+| [CVE-2026-61628](https://www.cve.org/CVERecord?id=CVE-2026-61628) | [nginx-ignition](https://github.com/lucasdillmann/nginx-ignition) | high |
 | [CVE-2026-61638](https://www.cve.org/CVERecord?id=CVE-2026-61638) | [Wallos](https://github.com/ellite/Wallos) | high |
 | [CVE-2026-61639](https://www.cve.org/CVERecord?id=CVE-2026-61639) | [Wallos](https://github.com/ellite/Wallos) | high |
 | [CVE-2026-61640](https://www.cve.org/CVERecord?id=CVE-2026-61640) | [Wallos](https://github.com/ellite/Wallos) | high |
