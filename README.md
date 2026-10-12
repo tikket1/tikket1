@@ -77,8 +77,8 @@ i build offensive security tools. most of my work is closed source.
 
 ### security research
 
-26 published CVEs across 19 open source projects, reported through coordinated disclosure.
-2 critical, 17 high, 5 medium, 2 low.
+29 published CVEs across 20 open source projects, reported through coordinated disclosure.
+2 critical, 20 high, 5 medium, 2 low.
 
 <details>
 <summary>full list</summary>
@@ -88,7 +88,9 @@ i build offensive security tools. most of my work is closed source.
 | CVE | project | severity |
 |---|---|---|
 | [CVE-2026-33734](https://www.cve.org/CVERecord?id=CVE-2026-33734) | [FOSSBilling](https://github.com/FOSSBilling/FOSSBilling) | medium |
+| [CVE-2026-34199](https://www.cve.org/CVERecord?id=CVE-2026-34199) | [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) | high |
 | [CVE-2026-34393](https://www.cve.org/CVERecord?id=CVE-2026-34393) | [Weblate](https://github.com/WeblateOrg/weblate) | high |
+| [CVE-2026-34407](https://www.cve.org/CVERecord?id=CVE-2026-34407) | [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) | high |
 | [CVE-2026-34455](https://www.cve.org/CVERecord?id=CVE-2026-34455) | [Hi.Events](https://github.com/HiEventsDev/hi.events) | high |
 | [CVE-2026-34592](https://www.cve.org/CVERecord?id=CVE-2026-34592) | [Coolify](https://github.com/coollabsio/coolify) | high |
 | [CVE-2026-39362](https://www.cve.org/CVERecord?id=CVE-2026-39362) | [InvenTree](https://github.com/inventree/InvenTree) | medium |
@@ -112,6 +114,7 @@ i build offensive security tools. most of my work is closed source.
 | [CVE-2026-61640](https://www.cve.org/CVERecord?id=CVE-2026-61640) | [Wallos](https://github.com/ellite/Wallos) | high |
 | [CVE-2026-63008](https://www.cve.org/CVERecord?id=CVE-2026-63008) | [Kimai](https://github.com/kimai/kimai) | low |
 | [CVE-2026-63769](https://www.cve.org/CVERecord?id=CVE-2026-63769) | [Huginn](https://github.com/huginn/huginn) | high |
+| [CVE-2026-70357](https://www.cve.org/CVERecord?id=CVE-2026-70357) | [Gitea](https://github.com/go-gitea/gitea) | high |
 | [CVE-2026-72884](https://www.cve.org/CVERecord?id=CVE-2026-72884) | [Dokploy](https://github.com/Dokploy/dokploy) | critical |
 
 </details>
